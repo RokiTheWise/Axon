@@ -1,0 +1,13 @@
+# Environments
+venv/
+__pycache__/
+*.pyc
+
+# Secrets & Keys (CRITICAL)
+.env
+credentials.json
+token.json
+
+# User Data
+data/config.json
+generated_files/
