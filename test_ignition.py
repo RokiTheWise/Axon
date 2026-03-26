@@ -1,5 +1,8 @@
-from core.config_loader import AxonConfig
+import os
+
+
 from core.bridge import AxonBridge
+from core.config_loader import AxonConfig
 
 
 def run_diagnostics():

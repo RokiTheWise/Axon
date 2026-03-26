@@ -11,3 +11,4 @@ token.json
 # User Data
 data/config.json
 generated_files/
+.DS_Store
